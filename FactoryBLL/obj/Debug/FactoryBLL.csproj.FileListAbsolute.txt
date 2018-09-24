@@ -9,3 +9,7 @@ C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\obj\Debug\FactoryBLL.csproj
 C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\obj\Debug\FactoryBLL.csproj.CopyComplete
 C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\obj\Debug\FactoryBLL.dll
 C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\obj\Debug\FactoryBLL.pdb
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\bin\Debug\FactoryDAL.dll
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\bin\Debug\DAL.dll
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\bin\Debug\FactoryDAL.pdb
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\bin\Debug\DAL.pdb

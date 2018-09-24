@@ -8,5 +8,6 @@ namespace Types
 {
    public interface IEmplDAL
     {
+        int CheckEmployee(IEmplBO obj);
     }
 }
