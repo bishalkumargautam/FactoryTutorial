@@ -4,6 +4,9 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using Types;
+using FactoryBO;
+using FactoryBLL;
 
 namespace FactoryMethod
 {

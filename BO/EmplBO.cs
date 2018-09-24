@@ -7,10 +7,10 @@ using Types;
 
 namespace BO
 {
-    class EmplBO : IEmplBO
+     public class EmplBO : IEmplBO
     {
-        private string username;
-        private string password;
+        string username;
+         string password;
         public string Username { get; set; }
         public string Password { get; set; }
 

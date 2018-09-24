@@ -75,3 +75,5 @@ C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.
 C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CopyComplete
 C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.dll
 C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\bin\BO.dll
+C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\bin\BO.pdb
