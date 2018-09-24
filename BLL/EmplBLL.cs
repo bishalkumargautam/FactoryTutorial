@@ -8,7 +8,7 @@ using FactoryDAL;
 
 namespace BLL
 {
-    class EmplBLL
+   public  class EmplBLL : IEmplBLL
     {
         public int CheckEmp(IEmplBO emplBO)
         {

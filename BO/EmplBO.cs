@@ -9,15 +9,14 @@ namespace BO
 {
      public class EmplBO : IEmplBO
     {
-        string username;
-         string password;
+      
         public string Username { get; set; }
         public string Password { get; set; }
 
-        public EmplBO (string username, string password)
+        public EmplBO(string username, string password)
         {
-            this.username = username;
-            this.password = password;
+            this.Username = username;
+            this.Password = password;
         }
     }
 }

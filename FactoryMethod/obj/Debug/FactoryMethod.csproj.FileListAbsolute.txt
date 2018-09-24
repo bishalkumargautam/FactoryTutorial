@@ -77,3 +77,9 @@ C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.
 C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
 C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\bin\BO.dll
 C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\bin\BO.pdb
+C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\bin\BLL.dll
+C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\bin\FactoryDAL.dll
+C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\bin\DAL.dll
+C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\bin\BLL.pdb
+C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\bin\FactoryDAL.pdb
+C:\Users\bisha\source\repos\FactoryMethod\FactoryMethod\bin\DAL.pdb

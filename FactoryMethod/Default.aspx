@@ -11,9 +11,9 @@
         <div>
         </div>
         <p>
-           username <input id="txtUsername" type="text" /></p>
+           username <asp:TextBox ID="txtUsername" runat="server"></asp:TextBox></p>
         <p>
-         Password   <input id="txtPassword" type="password" /></p>
+         Password  <asp:TextBox ID="txtPassword" runat="server"></asp:TextBox> </p>
         <asp:Button ID="btnSignin" runat="server" Text="Login" OnClick="btnSignin_Click" />
     </form>
 </body>
