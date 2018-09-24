@@ -1,0 +1,6 @@
+C:\Users\bisha\source\repos\FactoryMethod\Types\bin\Debug\Types.dll
+C:\Users\bisha\source\repos\FactoryMethod\Types\bin\Debug\Types.pdb
+C:\Users\bisha\source\repos\FactoryMethod\Types\obj\Debug\Types.csprojAssemblyReference.cache
+C:\Users\bisha\source\repos\FactoryMethod\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
+C:\Users\bisha\source\repos\FactoryMethod\Types\obj\Debug\Types.dll
+C:\Users\bisha\source\repos\FactoryMethod\Types\obj\Debug\Types.pdb

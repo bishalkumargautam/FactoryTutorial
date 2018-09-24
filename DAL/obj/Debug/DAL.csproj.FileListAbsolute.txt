@@ -1,0 +1,13 @@
+C:\Users\bisha\source\repos\FactoryMethod\DAL\bin\Debug\DAL.dll
+C:\Users\bisha\source\repos\FactoryMethod\DAL\bin\Debug\DAL.pdb
+C:\Users\bisha\source\repos\FactoryMethod\DAL\bin\Debug\BO.dll
+C:\Users\bisha\source\repos\FactoryMethod\DAL\bin\Debug\FactoryBO.dll
+C:\Users\bisha\source\repos\FactoryMethod\DAL\bin\Debug\Types.dll
+C:\Users\bisha\source\repos\FactoryMethod\DAL\bin\Debug\BO.pdb
+C:\Users\bisha\source\repos\FactoryMethod\DAL\bin\Debug\FactoryBO.pdb
+C:\Users\bisha\source\repos\FactoryMethod\DAL\bin\Debug\Types.pdb
+C:\Users\bisha\source\repos\FactoryMethod\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\bisha\source\repos\FactoryMethod\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\bisha\source\repos\FactoryMethod\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\bisha\source\repos\FactoryMethod\DAL\obj\Debug\DAL.dll
+C:\Users\bisha\source\repos\FactoryMethod\DAL\obj\Debug\DAL.pdb

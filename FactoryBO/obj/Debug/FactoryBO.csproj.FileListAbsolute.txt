@@ -1,0 +1,11 @@
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBO\bin\Debug\FactoryBO.dll
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBO\bin\Debug\FactoryBO.pdb
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBO\bin\Debug\BO.dll
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBO\bin\Debug\Types.dll
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBO\bin\Debug\BO.pdb
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBO\bin\Debug\Types.pdb
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBO\obj\Debug\FactoryBO.csprojAssemblyReference.cache
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBO\obj\Debug\FactoryBO.csproj.CoreCompileInputs.cache
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBO\obj\Debug\FactoryBO.csproj.CopyComplete
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBO\obj\Debug\FactoryBO.dll
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBO\obj\Debug\FactoryBO.pdb

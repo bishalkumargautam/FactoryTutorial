@@ -1,0 +1,9 @@
+C:\Users\bisha\source\repos\FactoryMethod\BO\bin\Debug\BO.dll
+C:\Users\bisha\source\repos\FactoryMethod\BO\bin\Debug\BO.pdb
+C:\Users\bisha\source\repos\FactoryMethod\BO\bin\Debug\Types.dll
+C:\Users\bisha\source\repos\FactoryMethod\BO\bin\Debug\Types.pdb
+C:\Users\bisha\source\repos\FactoryMethod\BO\obj\Debug\BO.csprojAssemblyReference.cache
+C:\Users\bisha\source\repos\FactoryMethod\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\bisha\source\repos\FactoryMethod\BO\obj\Debug\BO.csproj.CopyComplete
+C:\Users\bisha\source\repos\FactoryMethod\BO\obj\Debug\BO.dll
+C:\Users\bisha\source\repos\FactoryMethod\BO\obj\Debug\BO.pdb

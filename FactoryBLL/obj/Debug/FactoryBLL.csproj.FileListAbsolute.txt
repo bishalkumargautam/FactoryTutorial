@@ -1,0 +1,11 @@
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\bin\Debug\FactoryBLL.dll
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\bin\Debug\FactoryBLL.pdb
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\bin\Debug\BLL.dll
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\bin\Debug\Types.dll
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\bin\Debug\BLL.pdb
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\bin\Debug\Types.pdb
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\obj\Debug\FactoryBLL.csprojAssemblyReference.cache
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\obj\Debug\FactoryBLL.csproj.CoreCompileInputs.cache
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\obj\Debug\FactoryBLL.csproj.CopyComplete
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\obj\Debug\FactoryBLL.dll
+C:\Users\bisha\source\repos\FactoryMethod\FactoryBLL\obj\Debug\FactoryBLL.pdb
